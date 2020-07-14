@@ -1,0 +1,211 @@
+.section {
+    padding: 40px 0;
+}
+.section-heading {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+/*navbar start */
+
+a.nav-link {
+    font-family: 'Poppins', sans-serif;
+    
+}
+.nav-bg-color{
+    
+    background-color: #F0FFF0;
+}
+.logo{
+    width: 155px;
+}
+a.sign-in-button{
+    
+    background-color: #21B573;
+    border-radius: 30px;
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    
+    margin-left: 20px;
+  
+}
+.sign-in-position{
+    margin-top: 7px;
+}
+ 
+/*navbar end*/
+
+
+/*banner start*/ 
+
+.banner-bg-color{
+    background-color: #F0FFF0;
+}
+p.first-title {
+    font-size: 17px;
+    line-height: 15px;
+    color: #FD511A;
+}
+.second-title {
+    font-size: 40px;
+    line-height: 70px;
+    color: #000000;
+    font-weight: 700;
+}
+
+.second-title span {
+    color: #21B573;
+}
+
+.banner-section-margin-top{
+
+    margin-top: 40px;
+}
+
+.btn-get-started{
+    background-color: #2FA470;
+    border: none;
+    padding: 10px 15px;
+    color: #F0FFF0;
+    border-radius: 20px;
+}
+
+/*banner end*/
+
+/*item section start*/
+
+.card-design{
+
+    padding-top: 25px;
+    background-color:#f8fffb;
+    border: none;
+    border-radius: 8px;
+    
+}
+
+.card-design:hover{
+    box-shadow: -1px 0px 15px -2px rgba(0,0,0,0.75);
+
+    background-color: #ffffff;
+    transition: 1s;
+}
+
+/*item section end*/
+
+/*course description start*/
+
+.online-courses-title{
+    margin-top: 50px;
+    text-align: center;
+}
+.online-courses h1{
+
+    text-align: center;
+    margin-bottom: 50px;
+}
+.online-course-design{
+
+    box-shadow: 10px 10px 40px #ddd;
+    border: none;
+    border-radius: 8px;
+}
+
+.course-img-pading{
+
+    padding: 15px;
+}
+
+.course-card-title h5{
+    font-weight: 500;
+    color: #413960;
+
+}
+
+.icon-setting{
+    margin-top: 15px;
+}
+
+.buy-now-btn{
+
+    background-color: #2FA470;
+    border-radius: 5px;
+    padding: 7px 15px;
+    color: white;
+}
+.buy-now-btn-margin{
+    margin-top: 4px;
+}
+
+/*course description end*/
+
+/*testimonial start*/
+
+.tesmonial {
+    padding: 20px;
+}
+
+
+.testimonial-title{
+    
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.testimonial-body{
+    margin-bottom: 80px;
+}
+
+.img-weight{
+
+    width: 100px;
+    float: right;
+}
+
+/*testimonial end*/
+
+/*footer start*/
+
+ul li a {
+    color: white;
+    text-align: auto;
+}
+
+.bg-footer {
+    background-color: #282531;
+    color: #fff;
+    font-size: 18px;
+}
+
+.footer-section-heading {
+    font-size: 18px;
+    color: #fff;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.footer-section>ul>li>a:hover {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ddd;
+}
+
+.row.copyright {
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+    color:white
+}
+
+/*footer end*/
